@@ -1,0 +1,10 @@
+C:\Users\정준우\source\repos\TestCode\TestCode\bin\Debug\TestCode.exe.config
+C:\Users\정준우\source\repos\TestCode\TestCode\bin\Debug\TestCode.exe
+C:\Users\정준우\source\repos\TestCode\TestCode\bin\Debug\TestCode.pdb
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.csproj.AssemblyReference.cache
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.Form1.resources
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.Properties.Resources.resources
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.csproj.GenerateResource.cache
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.exe
+C:\Users\정준우\source\repos\TestCode\TestCode\obj\Debug\TestCode.pdb
